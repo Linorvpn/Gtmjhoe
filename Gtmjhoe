@@ -1,108 +1,198 @@
-
 {
   "Servers" : [ {
-    "Category" : 0,
-    "DomainOrIP" : "Gtmnocap1.resilient2020.ml",
-    "Flag" : "sg",
-    "Name" : "Premium Singapore 1",
-    "AlterID" : "0",
-    "Port" : "443"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "Gtmnocap2.resilient2020.ml",
-    "Flag" : "sg",
-    "Name" : "Premium Singapore 2",
-    "AlterID" : "0",
-    "Port" : "443"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "Gtmnocap3.resilient2020.ml",
-    "Flag" : "sg",
-    "Name" : "Premium Singapore 3",
-    "AlterID" : "0",
-    "Port" : "443"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "Gtmnocap4.resilient2020.ml",
-    "Flag" : "sg",
-    "Name" : "Premium Singapore 4",
-    "AlterID" : "0",
-    "Port" : "443"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "Gtmnocap5.resilient2020.ml",
-    "Flag" : "sg",
-    "Name" : "Premium Singapore 5",
+    "Category" : 1,
+    "DomainOrIP" : "Gtmnocap11.resilient2020.ml",
+    "Flag" : "us",
+    "Name" : "VIP USA 1",
     "AlterID" : "0",
     "Port" : "443"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "Gtmnocap1.resilient2020.ml",
-    "Flag" : "sg",
-    "Name" : "Vip Singapore 1",
+    "DomainOrIP" : "Gtmnocap11.resilient2020.ml",
+    "Flag" : "us",
+    "Name" : "VIP USA 2",
     "AlterID" : "0",
     "Port" : "443"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "Gtmnocap2.resilient2020.ml",
-    "Flag" : "sg",
-    "Name" : "Vip Singapore 2",
+    "DomainOrIP" : "Gtmnocap11.resilient2020.ml",
+    "Flag" : "us",
+    "Name" : "VIP USA 3",
     "AlterID" : "0",
     "Port" : "443"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "Gtmnocap3.resilient2020.ml",
-    "Flag" : "sg",
-    "Name" : "Vip Singapore 3",
+    "DomainOrIP" : "Gtmnocap11.resilient2020.ml",
+    "Flag" : "us",
+    "Name" : "VIP USA 4",
     "AlterID" : "0",
     "Port" : "443"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "Gtmnocap4.resilient2020.ml",
+    "DomainOrIP" : "Gtmnocap11.resilient2020.ml",
+    "Flag" : "us",
+    "Name" : "VIP USA 5",
+    "AlterID" : "0",
+    "Port" : "443"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "Gtmnocap12.resilient2020.ml",
+    "Flag" : "in",
+    "Name" : "VIP India 1",
+    "AlterID" : "0",
+    "Port" : "443"
+  }, {
+    "Category" : 1, 
+    "DomainOrIP" : "Gtmnocap12.resilient2020.ml",
+    "Flag" : "in",
+    "Name" : "VIP India 2",
+    "AlterID" : "0",
+    "Port" : "443"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "Gtmnocap12.resilient2020.ml",
+    "Flag" : "in",
+    "Name" : "VIP india 3",
+    "AlterID" : "0",
+    "Port" : "443"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "Gtmnocap12.resilient2020.ml",
+    "Flag" : "in",
+    "Name" : "VIP India 4",
+    "AlterID" : "0",
+    "Port" : "443"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "Gtmnocap12.resilient2020.ml",
+    "Flag" : "in",
+    "Name" : "VIP India 5",
+    "AlterID" : "0",
+    "Port" : "443"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "Gtmnocap13.resilient2020.ml",
+    "Flag" : "de",
+    "Name" : "VIP Germany 1",
+    "AlterID" : "0",
+    "Port" : "443"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "Gtmnocap13.resilient2020.ml",
+    "Flag" : "de",
+    "Name" : "VIP Germany 2",
+    "AlterID" : "0",
+    "Port" : "443"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "Gtmnocap13.resilient2020.ml",
+    "Flag" : "de",
+    "Name" : "VIP Germany 3",
+    "AlterID" : "0",
+    "Port" : "443"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "Gtmnocap13.resilient2020.ml",
+    "Flag" : "de",
+    "Name" : "VIP Germany 4",
+    "AlterID" : "0",
+    "Port" : "443"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "Gtmnocap13.resilient2020.ml",
+    "Flag" : "de",
+    "Name" : "VIP Germany 5",
+    "AlterID" : "0",
+    "Port" : "443"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "Gtmnocap6.resilient2020.ml",
+    "Flag" : "sg",
+    "Name" : "VIP Singapore 1",
+    "AlterID" : "0",
+    "Port" : "443"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "Gtmnocap7.resilient2020.ml",
+    "Flag" : "sg",
+    "Name" : "VIP Singapore 2",
+    "AlterID" : "0",
+    "Port" : "443"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "Gtmnocap8.resilient2020.ml",
+    "Flag" : "sg",
+    "Name" : "VIP Singapore 3",
+    "AlterID" : "0",
+    "Port" : "443"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "Gtmnocap9.resilient2020.ml",
     "Flag" : "sg",
     "Name" : "Vip Singapore 4",
     "AlterID" : "0",
     "Port" : "443"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "Gtmnocap5.resilient2020.ml",
+    "DomainOrIP" : "Gtmnocap10.resilient2020.ml",
     "Flag" : "sg",
     "Name" : "Vip Singapore 5",
     "AlterID" : "0",
     "Port" : "443"
   }, {
-    "Category" : 2,
-    "DomainOrIP" : "Gtmnocap1.resilient2020.ml",
+    "Category" : 1,
+    "DomainOrIP" : "Gtmnocap6.resilient2020.ml",
     "Flag" : "sg",
-    "Name" : "Private Singapore 1",
+    "Name" : "Vip Singapore 6",
     "AlterID" : "0",
     "Port" : "443"
   }, {
-    "Category" : 2,
-    "DomainOrIP" : "Gtmnocap2.resilient2020.ml",
+    "Category" : 1,
+    "DomainOrIP" : "Gtmnocap7.resilient2020.ml",
     "Flag" : "sg",
-    "Name" : "Private Singapore 2",
+    "Name" : "Vip Singapore 7",
     "AlterID" : "0",
     "Port" : "443"
   }, {
-    "Category" : 2,
-    "DomainOrIP" : "Gtmnocap3.resilient2020.ml",
+    "Category" : 1,
+    "DomainOrIP" : "Gtmnocap8.resilient2020.ml",
     "Flag" : "sg",
-    "Name" : "Private Singapore 3",
+    "Name" : "Vip Singapore 8",
     "AlterID" : "0",
     "Port" : "443"
   }, {
-    "Category" : 2,
-    "DomainOrIP" : "Gtmnocap4.resilient2020.ml",
+    "Category" : 1,
+    "DomainOrIP" : "Gtmnocap9.resilient2020.ml",
     "Flag" : "sg",
-    "Name" : "Private Singapore 4",
+    "Name" : "VIP Singapore 9",
     "AlterID" : "0",
     "Port" : "443"
   }, {
-    "Category" : 2,
-    "DomainOrIP" : "Gtmnocap5.resilient2020.ml",
+    "Category" : 1,
+    "DomainOrIP" : "Gtmnocap10.resilient2020.ml",
     "Flag" : "sg",
-    "Name" : "Private Singapore 5",
+    "Name" : "VIP Singapore 10",
+    "AlterID" : "0",
+    "Port" : "443"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "Gtmnocap6.resilient2020.ml",
+    "Flag" : "sg",
+    "Name" : "VIP Singapore 11",
+    "AlterID" : "0",
+    "Port" : "443"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "Gtmnocap7.resilient2020.ml",
+    "Flag" : "sg",
+    "Name" : "VIP Singapore 12",
+    "AlterID" : "0",
+    "Port" : "443"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "Gtmnocap8.resilient2020.ml",
+    "Flag" : "sg",
+    "Name" : "VIP Singapore 13",
     "AlterID" : "0",
     "Port" : "443"
   }],
@@ -170,5 +260,10 @@
   "Changelogs" : "Whats New?\nBrand New Easy User Interface\LinorVPN Loaded Core SDK 29 Support\nFix and Added New Encryption for Security\nSecured and Fastest Servers",
   "Notice" : "Whats New?\nNew servers updated\nNew no capping payload\nPowered by Linor VPN",
   "UpdateUrl": "https://raw.githubusercontent.com/Linorvpn/Gtmjhoe/main/Gtmjhoe",
-  "Version" : 8
+  "Version" : 9
 }
+
+
+
+
+
