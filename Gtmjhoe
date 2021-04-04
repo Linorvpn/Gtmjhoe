@@ -207,12 +207,12 @@
     "Network" : "globe",
     "Name" : "GTM noload 2"
   },{
-    "Host" : "freenet.globe.com.ph.cdn.cloudflare.net",
+    "Host" : "zeus.proxylitegtm.xyz",
     "Icon" : "globe",
     "Network" : "globe",
     "Name" : "GTM noload 3"
   },{
-    "Host" : "www.globe.com.ph.cdn.cloudflare.net",
+    "Host" : "::ffff:6811:4002",
     "Icon" : "globe",
     "Network" : "globe",
     "Name" : "GTM noload 4"
@@ -260,7 +260,8 @@
   "Changelogs" : "Whats New?\nBrand New Easy User Interface\LinorVPN Loaded Core SDK 29 Support\nFix and Added New Encryption for Security\nSecured and Fastest Servers",
   "Notice" : "Whats New?\nNew servers updated\nNew no capping payload\nPowered by Linor VPN",
   "UpdateUrl": "https://raw.githubusercontent.com/Linorvpn/Gtmjhoe/main/Gtmjhoe",
-  "Version" : 9
+  "Version" : 10
+ 
 }
 
 
