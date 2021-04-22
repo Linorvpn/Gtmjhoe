@@ -15,23 +15,23 @@
     "Port" : "443"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "Gtmnocap11.resilient2020.ml",
-    "Flag" : "us",
-    "Name" : "PREMIUM USA 3",
+    "DomainOrIP" : "Gtmnocap1.resilient2020.ml",
+    "Flag" : "ca",
+    "Name" : "PREMIUM CANADA",
     "AlterID" : "0",
     "Port" : "443"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "Gtmnocap11.resilient2020.ml",
-    "Flag" : "us",
-    "Name" : "PREMIUM USA 4",
+    "DomainOrIP" : "Gtmnocap1.resilient2020.ml",
+    "Flag" : "sg",
+    "Name" : "PREMIUM SINGAPORE",
     "AlterID" : "0",
     "Port" : "443"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "Gtmnocap11.resilient2020.ml",
-    "Flag" : "us",
-    "Name" : "PREMIUM USA 5",
+    "DomainOrIP" : "Gtmnocap1.resilient2020.ml",
+    "Flag" : "gb",
+    "Name" : "PREMIUM LONDON",
     "AlterID" : "0",
     "Port" : "443"
   }, {
@@ -157,21 +157,21 @@
     "Category" : 2,
     "DomainOrIP" : "Gtmnocap11.resilient2020.ml",
     "Flag" : "us",
-    "Name" : "PRIVATE USA 1",
+    "Name" : "PRIVATE NETFLIX 1",
     "AlterID" : "0",
     "Port" : "443"
   }, {
     "Category" : 2,
     "DomainOrIP" : "Gtmnocap11.resilient2020.ml",
     "Flag" : "us",
-    "Name" : "PRIVATE USA 2",
+    "Name" : "PRIVATE NETFLIX 2",
     "AlterID" : "0",
     "Port" : "443"
   }, {
     "Category" : 2,
     "DomainOrIP" : "Gtmnocap10.resilient2020.ml",
     "Flag" : "us",
-    "Name" : "PRIVATE USA 3",
+    "Name" : "PRIVATE NETFLIX 3",
     "AlterID" : "0",
     "Port" : "443"
   }, {
@@ -260,7 +260,7 @@
   "Changelogs" : "Whats New?\nBrand New Easy User Interface\LinorVPN Loaded Core SDK 29 Support\nFix and Added New Encryption for Security\nSecured and Fastest Servers",
   "Notice" : "Whats New?\nNew servers updated\nNew no capping payload\nPowered by Linor VPN",
   "UpdateUrl": "https://raw.githubusercontent.com/Linorvpn/Gtmjhoe/main/Gtmjhoe",
-  "Version" : 13
+  "Version" : 14
  
 }
 
