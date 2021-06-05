@@ -1,21 +1,21 @@
 {
   "Servers" : [ {
     "Category" : 0,
-    "DomainOrIP" : "Gtmnocap11.resilient2020.ml",
+    "DomainOrIP" : "linor60.doloresantu.tk",
     "Flag" : "us",
     "Name" : "PREMIUM USA 1",
     "AlterID" : "0",
     "Port" : "443"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "Gtmnocap11.resilient2020.ml",
+    "DomainOrIP" : "linor60.doloresantu.tk",
     "Flag" : "us",
     "Name" : "PREMIUM USA 2",
     "AlterID" : "0",
     "Port" : "443"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "Gtmnocap1.resilient2020.ml",
+    "DomainOrIP" : "linor60.doloresantu.tk",
     "Flag" : "ca",
     "Name" : "PREMIUM CANADA",
     "AlterID" : "0",
@@ -29,42 +29,42 @@
     "Port" : "443"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "Gtmnocap1.resilient2020.ml",
+    "DomainOrIP" : "linor60.doloresantu.tk",
     "Flag" : "gb",
     "Name" : "PREMIUM LONDON",
     "AlterID" : "0",
     "Port" : "443"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "Gtmnocap12.resilient2020.ml",
+    "DomainOrIP" : "linor60.doloresantu.tk",
     "Flag" : "in",
     "Name" : "VIP India 1",
     "AlterID" : "0",
     "Port" : "443"
   }, {
     "Category" : 1, 
-    "DomainOrIP" : "Gtmnocap12.resilient2020.ml",
+    "DomainOrIP" : "linor60.doloresantu.tk",
     "Flag" : "in",
     "Name" : "VIP India 2",
     "AlterID" : "0",
     "Port" : "443"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "Gtmnocap12.resilient2020.ml",
+    "DomainOrIP" : "linor60.doloresantu.tk",
     "Flag" : "in",
     "Name" : "VIP india 3",
     "AlterID" : "0",
     "Port" : "443"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "Gtmnocap12.resilient2020.ml",
+    "DomainOrIP" : "linor60.doloresantu.tk",
     "Flag" : "in",
     "Name" : "VIP India 4",
     "AlterID" : "0",
     "Port" : "443"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "Gtmnocap12.resilient2020.ml",
+    "DomainOrIP" : "linor60.doloresantu.tk",
     "Flag" : "in",
     "Name" : "VIP India 5",
     "AlterID" : "0",
@@ -78,70 +78,70 @@
     "Port" : "443"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "Gtmnocap13.resilient2020.ml",
+    "DomainOrIP" : "linor60.doloresantu.tk",
     "Flag" : "de",
     "Name" : "VIP Germany 2",
     "AlterID" : "0",
     "Port" : "443"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "Gtmnocap13.resilient2020.ml",
+    "DomainOrIP" : "linor60.doloresantu.tk",
     "Flag" : "de",
     "Name" : "VIP Germany 3",
     "AlterID" : "0",
     "Port" : "443"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "Gtmnocap13.resilient2020.ml",
+    "DomainOrIP" : "linor60.doloresantu.tk",
     "Flag" : "de",
     "Name" : "VIP Germany 4",
     "AlterID" : "0",
     "Port" : "443"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "Gtmnocap13.resilient2020.ml",
+    "DomainOrIP" : "linor60.doloresantu.tk",
     "Flag" : "de",
     "Name" : "VIP Germany 5",
     "AlterID" : "0",
     "Port" : "443"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "Gtmnocap6.resilient2020.ml",
+    "DomainOrIP" : "linor60.doloresantu.tk",
     "Flag" : "sg",
     "Name" : "PRIVATE Singapore 1",
     "AlterID" : "0",
     "Port" : "443"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "Gtmnocap7.resilient2020.ml",
+    "DomainOrIP" : "linor60.doloresantu.tk",
     "Flag" : "sg",
     "Name" : "PRIVATE Singapore 2",
     "AlterID" : "0",
     "Port" : "443"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "Gtmnocap8.resilient2020.ml",
+    "DomainOrIP" : "linor60.doloresantu.tk",
     "Flag" : "sg",
     "Name" : "PRIVATE Singapore 3",
     "AlterID" : "0",
     "Port" : "443"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "Gtmnocap9.resilient2020.ml",
+    "DomainOrIP" : "linor60.doloresantu.tk",
     "Flag" : "sg",
     "Name" : "PRIVATE Singapore 4",
     "AlterID" : "0",
     "Port" : "443"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "Gtmnocap10.resilient2020.ml",
+    "DomainOrIP" : "linor60.doloresantu.tk",
     "Flag" : "sg",
     "Name" : "PRIVATE Singapore 5",
     "AlterID" : "0",
     "Port" : "443"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "Gtmnocap6.resilient2020.ml",
+    "DomainOrIP" : "linor60.doloresantu.tk",
     "Flag" : "sg",
     "Name" : "PRIVATE Singapore 6",
     "AlterID" : "0",
@@ -155,42 +155,42 @@
     "Port" : "443"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "Gtmnocap11.resilient2020.ml",
+    "DomainOrIP" : "linor60.doloresantu.tk",
     "Flag" : "us",
     "Name" : "PRIVATE NETFLIX 1",
     "AlterID" : "0",
     "Port" : "443"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "Gtmnocap11.resilient2020.ml",
+    "DomainOrIP" : "linor60.doloresantu.tk",
     "Flag" : "us",
     "Name" : "PRIVATE NETFLIX 2",
     "AlterID" : "0",
     "Port" : "443"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "Gtmnocap10.resilient2020.ml",
+    "DomainOrIP" : "linor60.doloresantu.tk",
     "Flag" : "us",
     "Name" : "PRIVATE NETFLIX 3",
     "AlterID" : "0",
     "Port" : "443"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "Gtmnocap2.resilient2020.ml",
+    "DomainOrIP" : "linor60.doloresantu.tk",
     "Flag" : "in",
     "Name" : "PRIVATE INDIA 1",
     "AlterID" : "0",
     "Port" : "443"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "Gtmnocap2.resilient2020.ml",
+    "DomainOrIP" : "linor60.doloresantu.tk",
     "Flag" : "in",
     "Name" : "PRIVATE INDIA 2",
     "AlterID" : "0",
     "Port" : "443"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "Gtmnocap2.resilient2020.ml",
+    "DomainOrIP" : "linor60.doloresantu.tk",
     "Flag" : "in",
     "Name" : "PRIVATE INDIA 3",
     "AlterID" : "0",
@@ -217,17 +217,17 @@
     "Network" : "globe",
     "Name" : "GTM noload 4"
   }, {
-    "Host" : "www.smart.com.ph",
+    "Host" : "www.pldtsdnnfv.com",
     "Icon" : "smart",
     "Network" : "smart",
     "Name" : "SUN TNT SMART noload 1"
   }, {
-    "Host" : "www.smart.com.ph",
+    "Host" : "www.pldtsdnnfv.com",
     "Icon" : "smart",
     "Network" : "smart",
     "Name" : "SUN TNT SMART noload 2"
   }, {
-    "Host" : "www.smart.com.ph",
+    "Host" : "www.pldtsdnnfv.com",
     "Icon" : "smart",
     "Network" : "smart",
     "Name" : "SUN TNT SMART noload 3"
@@ -258,9 +258,9 @@
     "Name" : "DITO noload 1"
   } ],
   "Changelogs" : "Whats New?\nBrand New Easy User Interface\LinorVPN Loaded Core SDK 29 Support\nFix and Added New Encryption for Security\nSecured and Fastest Servers",
-  "Notice" : "Whats New?\nNew servers updated\nNew no capping payload\nPowered by Linor VPN",
+  "Notice" : "Whats New?\nNew servers updated\STS NO LOAD\nPowered by Linor VPN",
   "UpdateUrl": "https://raw.githubusercontent.com/Linorvpn/Gtmjhoe/main/Gtmjhoe",
-  "Version" : 15
+  "Version" : 16
  
 }
 
