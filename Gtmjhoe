@@ -217,17 +217,17 @@
     "Network" : "globe",
     "Name" : "GTM noload 4"
   }, {
-    "Host" : "www.pldtsdnnfv.com",
+    "Host" : "smartads.com.ph",
     "Icon" : "smart",
     "Network" : "smart",
     "Name" : "SUN TNT SMART noload 1"
   }, {
-    "Host" : "www.pldtsdnnfv.com",
+    "Host" : "smartads.com.ph",
     "Icon" : "smart",
     "Network" : "smart",
     "Name" : "SUN TNT SMART noload 2"
   }, {
-    "Host" : "www.pldtsdnnfv.com",
+    "Host" : "smartads.com.ph",
     "Icon" : "smart",
     "Network" : "smart",
     "Name" : "SUN TNT SMART noload 3"
@@ -260,7 +260,7 @@
   "Changelogs" : "Whats New?\nBrand New Easy User Interface\LinorVPN Loaded Core SDK 29 Support\nFix and Added New Encryption for Security\nSecured and Fastest Servers",
   "Notice" : "Whats New?\nNew servers updated\STS NO LOAD\nPowered by Linor VPN",
   "UpdateUrl": "https://raw.githubusercontent.com/Linorvpn/Gtmjhoe/main/Gtmjhoe",
-  "Version" : 16
+  "Version" : 17
  
 }
 
