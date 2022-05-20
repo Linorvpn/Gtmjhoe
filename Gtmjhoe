@@ -255,12 +255,12 @@
     "Host" : "www.dito.ph",
     "Icon" : "dito",
     "Network" : "dito",
-    "Name" : "DITO noload 1"
+    "Name" : "DITO noload 01"
   } ],
   "Changelogs" : "Whats New?\nBrand New Easy User Interface\LinorVPN Loaded Core SDK 29 Support\nFix and Added New Encryption for Security\nSecured and Fastest Servers",
   "Notice" : "Whats New?\nNew servers updated\STS NO LOAD\nPowered by Linor VPN",
   "UpdateUrl": "https://raw.githubusercontent.com/Linorvpn/Gtmjhoe/main/Gtmjhoe",
-  "Version" : 18
+  "Version" : 20
  
 }
 
